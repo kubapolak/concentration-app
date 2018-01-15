@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0411BF2A200D150200923396 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0411BF29200D150200923396 /* Concentration.swift */; };
+		0411BF2C200D15B800923396 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0411BF2B200D15B800923396 /* Card.swift */; };
 		045A603E200690C70050E671 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045A603D200690C70050E671 /* AppDelegate.swift */; };
 		045A6040200690C70050E671 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045A603F200690C70050E671 /* ViewController.swift */; };
 		045A6043200690C70050E671 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 045A6041200690C70050E671 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0411BF29200D150200923396 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		0411BF2B200D15B800923396 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		045A603A200690C70050E671 /* concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		045A603D200690C70050E671 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		045A603F200690C70050E671 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +60,8 @@
 			children = (
 				045A604F200691AF0050E671 /* Supporting Files */,
 				045A603F200690C70050E671 /* ViewController.swift */,
+				0411BF29200D150200923396 /* Concentration.swift */,
+				0411BF2B200D15B800923396 /* Card.swift */,
 				045A6041200690C70050E671 /* Main.storyboard */,
 				045A6049200690C70050E671 /* Info.plist */,
 			);
@@ -146,6 +152,8 @@
 			files = (
 				045A6040200690C70050E671 /* ViewController.swift in Sources */,
 				045A603E200690C70050E671 /* AppDelegate.swift in Sources */,
+				0411BF2A200D150200923396 /* Concentration.swift in Sources */,
+				0411BF2C200D15B800923396 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
